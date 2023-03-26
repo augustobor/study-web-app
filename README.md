@@ -10,9 +10,9 @@
 
 - 
 
-#### This website is responsive and with vue router I created a menu in mobile and tablet versions. 
+#### This website is  
 
-#### All the project is built with vue-cli and would be able to connect your wallet and simulate an exchange in web 3.
+#### All the project is built with react & redux and would be able to connect your wallet and simulate an exchange in web 3.
 
 ## 👨‍💻 Dev Tools
 
